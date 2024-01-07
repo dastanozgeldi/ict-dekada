@@ -1,7 +1,7 @@
 export const Footer = () => {
   return (
-    <footer className="">
-      <div className="text-center border-t-1 border-t-black">
+    <footer className="border-t">
+      <div className="text-center my-3">
         brought to you with 💙 by{" "}
         <a
           className="text-[#536DFE] font-semibold"
